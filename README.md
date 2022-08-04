@@ -1,6 +1,6 @@
-# day8
+# Flutter Increment Decrement
 
-A new Flutter project.
+A Flutter increment, decrement and calculation project by mobile development module.
 
 ## Getting Started
 
